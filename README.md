@@ -46,18 +46,18 @@ This lab simulates a real-world scenario for managing and testing network config
 
 By completing this lab:
 
-    Recognize pyATS topology testbed and device objects
-    Create a topology using classes from the topology module
-    Run test scripts to validate your testbed and topology configuration
+- Recognize pyATS topology testbed and device objects
+- Create a topology using classes from the topology module
+- Run test scripts to validate your testbed and topology configuration
 
 ## 🚀 Getting Started
 
 Before implementing complex test scenarios:
 
-    Review an existing testbed structure to understand its layout
-    Create a custom testbed with additional functionality for network and device state testing
-    Execute test scripts to validate testbed parameters and topology module actions
-    Convert testbed information into topology objects and pass them to test scripts
+- Review an existing testbed structure to understand its layout
+- Create a custom testbed with additional functionality for network and device state testing
+- Execute test scripts to validate testbed parameters and topology module actions
+- Convert testbed information into topology objects and pass them to test scripts
 
 ## 📋 Prerequisites
 

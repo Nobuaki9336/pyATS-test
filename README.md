@@ -59,4 +59,22 @@ Before implementing complex test scenarios:
     Execute test scripts to validate testbed parameters and topology module actions
     Convert testbed information into topology objects and pass them to test scripts
 
-## Quick Start
+## 📋 Prerequisites
+
+    Python 3.6 or higher
+    pip package manager
+    Familiarity with YAML syntax
+    Basic understanding of network configuration concepts
+    Access to network devices or a simulated network environment (optional)
+
+## 🔬 Lab Activities
+Activity 1: Understanding pyATS Objects
+
+Learn how pyATS uses objects to define devices and connectivity.
+Activity 2: Creating a Testbed
+
+Build a custom YAML testbed file that defines your network topology and devices.
+Activity 3: Running Test Scripts
+
+Execute pyATS scripts to validate testbed configuration and topology validation.
+

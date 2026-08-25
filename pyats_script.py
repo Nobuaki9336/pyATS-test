@@ -1,6 +1,6 @@
 #!/bin/env python
 
-'''pyate_script.py
+'''pyats_script.py
 
 This is a testscript example intended to walk through basic Cisco IOS
 device connection, command execution and result verification using pyATS.

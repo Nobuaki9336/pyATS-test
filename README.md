@@ -19,11 +19,6 @@ Since pyATS is a test automation tool, it is built around the concept of testbed
 - [Getting Started](#getting-started)
 - [Prerequisites](#prerequisites)
 - [Lab Activities](#lab-activities)
-- [Directory Structure](#directory-structure)
-- [Documentation](#documentation)
-- [Common Commands](#common-commands)
-- [Tips & Best Practices](#tips--best-practices)
-- [Resources](#resources)
 
 ## 💼 Use Case
 

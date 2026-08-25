@@ -1,5 +1,28 @@
 # Network Automation Testing with pyATS
 
+## 🤝 AI Collaboration & Acknowledgments
+
+This pyATS lab documentation and testing framework was developed with the assistance of **Claude AI** (Anthropic). 
+
+### AI's Role in This Project
+
+The following components benefited from AI collaboration:
+- **README structure and formatting** - AI helped organize and present technical content clearly
+- **Code examples and explanations** - AI assisted in creating and refining test script examples
+- **Documentation clarity** - AI helped improve technical writing and readability
+
+### Human Responsibility & Quality Assurance
+
+**All outputs have been reviewed and verified by the project maintainer.** Key responsibilities include:
+- ✅ Validating all code examples for correctness
+- ✅ Ensuring technical accuracy of pyATS concepts
+- ✅ Testing configurations in actual lab environments
+- ✅ Final accountability for all content and implementation
+
+### Why This Matters
+
+Following the **AI Fluency Framework's "Diligence" principle**, we maintain **transparency about AI's role** while ensuring **human accountability** for the final product. This approach builds trust and ensures quality.
+
 ## 📋 Overview
 
 pyATS (Python Automated Test Systems) is a comprehensive platform for automating network tests. Originally developed as an internal tool by Cisco Engineering, pyATS has evolved into a widely-adopted framework with thousands of test developers and millions of lines of test scripts and libraries.
@@ -9,16 +32,6 @@ The pyATS base platform framework is designed for agile, fast-paced development 
 ## 🎯 Core Concept: Testbed
 
 Since pyATS is a test automation tool, it is built around the concept of testbeds. A testbed is a YAML-formatted file that defines the devices to be tested and their configuration parameters.
-
-## 📚 Table of Contents
-
-- [Overview](#overview)
-- [Core Concept: Testbed](#core-concept-testbed)
-- [Use Case](#use-case)
-- [Learning Objectives](#learning-objectives)
-- [Getting Started](#getting-started)
-- [Prerequisites](#prerequisites)
-- [Lab Activities](#lab-activities)
 
 ## 💼 Use Case
 

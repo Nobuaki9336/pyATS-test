@@ -1,8 +1,8 @@
 #!/bin/env python
 
-'''pyats_ios_example.py
+'''pyate_script.py
 
-This is a testscript example intended to walk users through basic Cisco IOS
+This is a testscript example intended to walk through basic Cisco IOS
 device connection, command execution and result verification using pyATS.
 
 Arguments:
@@ -42,7 +42,7 @@ Testing:
 
 Examples:
     # to run under standalone execution
-    bash$ python pyats_ios_example.py --testbed pyats_ios_example.yaml
+    bash$ python pyats_script.py --testbed pyats_script.yaml
 '''
 
 import re
@@ -322,7 +322,7 @@ if __name__ == '__main__':
     from ats.topology import loader
     parser = argparse.ArgumentParser(description = "standalone parser")
     parser.add_argument('--ios', dest = 'ios_names', type = list, default = ['R1', 'R2'])
-    parser.add_argument('--testbed', dest = 'testbed', type = loader.load, default = 'pyats_ios_default.yaml')
+    parser.add_argument('--testbed', dest = 'testbed', type = loader.load, default = 'testbed.yaml')
     # parse args
     args, unknown = parser.parse_known_args()
     #and pass all arguments to aetest.main() as kwargs

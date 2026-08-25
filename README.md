@@ -48,7 +48,7 @@ By completing this lab:
 
 - Recognize pyATS topology testbed and device objects
 - Create a topology using classes from the topology module
-- Run test scripts to validate your testbed and topology configuration
+- Run test scripts to validate the testbed and topology configuration
 
 ## 📋 Prerequisites
 

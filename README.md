@@ -22,10 +22,7 @@ Since pyATS is a test automation tool, it is built around the concept of testbed
 - [Documentation](#documentation)
 - [Common Commands](#common-commands)
 - [Tips & Best Practices](#tips--best-practices)
-- [Contributing](#contributing)
-- [License](#license)
 - [Resources](#resources)
-- [FAQ](#faq)
 
 ## 💼 Use Case
 

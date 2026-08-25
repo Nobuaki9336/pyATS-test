@@ -37,10 +37,10 @@ Since pyATS is a test automation tool, it is built around the concept of testbed
 
 This lab simulates a real-world scenario for managing and testing network configuration. By leveraging pyATS, we can:
 
-    ✅ Automate network testing with structured data output
-    ✅ Simplify integration with existing CI/CD and reporting tools
-    ✅ Define and validate network topology and device states
-    ✅ Create reusable test scripts and libraries
+✅ Automate network testing with structured data output
+✅ Simplify integration with existing CI/CD and reporting tools
+✅ Define and validate network topology and device states
+✅ Create reusable test scripts and libraries
 
 ## 🎓 Learning Objectives
 

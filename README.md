@@ -1,6 +1,6 @@
 # Network Automation Testing with pyATS
 
-📋 Overview
+## 📋 Overview
 
 pyATS (Python Automated Test Systems) is a comprehensive platform for automating network tests. Originally developed as an internal tool by Cisco Engineering, pyATS has evolved into a widely-adopted framework with thousands of test developers and millions of lines of test scripts and libraries.
 
@@ -9,7 +9,7 @@ The pyATS base platform framework is designed for agile, fast-paced development 
 
 Since pyATS is a test automation tool, it is built around the concept of testbeds. A testbed is a YAML-formatted file that defines the devices to be tested and their configuration parameters.
 
-📚 Table of Contents
+## 📚 Table of Contents
 
     Overview
     Core Concept
@@ -20,7 +20,7 @@ Since pyATS is a test automation tool, it is built around the concept of testbed
     Lab Activities
     Resources
 
-💼 Use Case
+## 💼 Use Case
 
 This lab simulates a real-world scenario where you are responsible for managing and testing your company's network configuration. By leveraging pyATS, you can:
 
@@ -29,7 +29,7 @@ This lab simulates a real-world scenario where you are responsible for managing 
     ✅ Define and validate network topology and device states
     ✅ Create reusable test scripts and libraries
 
-🎓 Learning Objectives
+## 🎓 Learning Objectives
 
 By completing this lab, you will:
 
@@ -37,7 +37,7 @@ By completing this lab, you will:
     Create a topology using classes from the topology module
     Run test scripts to validate your testbed and topology configuration
 
-🚀 Getting Started
+## 🚀 Getting Started
 
 Before implementing complex test scenarios, you will:
 
@@ -46,4 +46,4 @@ Before implementing complex test scenarios, you will:
     Execute test scripts to validate testbed parameters and topology module actions
     Convert testbed information into topology objects and pass them to test scripts
 
-Quick Start
+## Quick Start

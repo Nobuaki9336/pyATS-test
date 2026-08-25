@@ -8,6 +8,7 @@ The pyATS base platform framework is designed for agile, fast-paced development 
 🎯 Core Concept: Testbed
 
 Since pyATS is a test automation tool, it is built around the concept of testbeds. A testbed is a YAML-formatted file that defines the devices to be tested and their configuration parameters.
+
 📚 Table of Contents
 
     Overview

@@ -71,9 +71,11 @@ Before implementing complex test scenarios:
 Activity 1: Understanding pyATS Objects
 
 Learn how pyATS uses objects to define devices and connectivity.
+
 Activity 2: Creating a Testbed
 
 Build a custom YAML testbed file that defines your network topology and devices.
+
 Activity 3: Running Test Scripts
 
 Execute pyATS scripts to validate testbed configuration and topology validation.

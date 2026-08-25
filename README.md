@@ -21,7 +21,7 @@ The following components benefited from AI collaboration:
 
 ### Why This Matters
 
-Following the **AI Fluency Framework's "Diligence" principle**, we maintain **transparency about AI's role** while ensuring **human accountability** for the final product. This approach builds trust and ensures quality.
+Following the **AI Fluency Framework's "Diligence" principle**, we should maintain **transparency about AI's role** while ensuring **human accountability** for the final product. This approach builds trust and ensures quality.
 
 ## 📋 Overview
 

@@ -11,21 +11,21 @@ Since pyATS is a test automation tool, it is built around the concept of testbed
 
 ## 📚 Table of Contents
 
-    - [](#overview)
-    - [Core Concept: Testbed](#core-concept-testbed)
-    - [Use Case](#use-case)
-    - [Learning Objectives](#learning-objectives)
-    - [Getting Started](#getting-started)
-    - [Prerequisites](#prerequisites)
-    - [Lab Activities](#lab-activities)
-    - [Directory Structure](#directory-structure)
-    - [Documentation](#documentation)
-    - [Common Commands](#common-commands)
-    - [Tips & Best Practices](#tips--best-practices)
-    - [Contributing](#contributing)
-    - [License](#license)
-    - [Resources](#resources)
-    - [FAQ](#faq)
+- [Overview](#overview)
+- [Core Concept: Testbed](#core-concept-testbed)
+- [Use Case](#use-case)
+- [Learning Objectives](#learning-objectives)
+- [Getting Started](#getting-started)
+- [Prerequisites](#prerequisites)
+- [Lab Activities](#lab-activities)
+- [Directory Structure](#directory-structure)
+- [Documentation](#documentation)
+- [Common Commands](#common-commands)
+- [Tips & Best Practices](#tips--best-practices)
+- [Contributing](#contributing)
+- [License](#license)
+- [Resources](#resources)
+- [FAQ](#faq)
 
 ## 💼 Use Case
 
